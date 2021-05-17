@@ -4,9 +4,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/zeletrik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzeletrik&screen_name=zeletrik)
 
 `$whoami >`
-## I'm a Sofrware Enginner <a href="https://www.gehealthcare.com/">@GE Healthcare</a>
+## I'm a Senior Sofrware Enginner
 
-- ☁️  Cloud Back-end enginner with a little bit of Front-end interests
+- ☁️  Cloud Back-end enginner
 - 🌱 Currently learning software architecture designing
 - 🐱 Proud cat daddy
 - 🥅 2021 Goals: Contribute to Open Source projects
@@ -43,8 +43,6 @@
 
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/graphql/graphql.png" />][graphql]
 
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/unity/unity.png" />][unity]
-
 <br />
 
 ---
@@ -71,4 +69,3 @@
 [angular]: https://angular.io
 [aws]: https://aws.amazon.com
 [graphql]: https://graphql.org/
-[unity]: https://unity.com/
