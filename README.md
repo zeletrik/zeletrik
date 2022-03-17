@@ -1,15 +1,15 @@
 ### Hi there, I'm Patrik - aka [zeletrik][website] 👋
 
-[![Website](https://img.shields.io/website?label=zeletrik.hu&style=for-the-badge&url=http%3A%2F%2Fzeletrik.hu)](http://zeletrik.hu)
+[![Website](https://img.shields.io/website?label=zeletrik.hu&style=for-the-badge&url=http%3A%2F%2Fzeletrik.eu)](http://zeletrik.eu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zeletrik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzeletrik&screen_name=zeletrik)
 
 `$whoami >`
 ## I'm a Senior Sofrware Enginner
 
-- ☁️  Cloud Back-end enginner
-- 🌱 Currently learning software architecture designing
+- ☁️ Cloud Backend Enginner
+- 🌱 Software Architecture Designing Newby
 - 🐱 Proud cat daddy
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
@@ -55,7 +55,7 @@
 ---
   <img align="left" alt="'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeletrik&show_icons=true&hide_border=true" />
 
-[website]: http://zeletrik.hu
+[website]: http://zeletrik.eu
 [twitter]: https://twitter.com/zeletrik
 [instagram]: https://instagram.com/zeletrik
 [linkedin]: https://linkedin.com/in/zeletrik
