@@ -2,44 +2,31 @@
 
 [![Website](https://img.shields.io/website?label=zeletrik.eu&style=for-the-badge&url=http%3A%2F%2Fzeletrik.eu)](http://zeletrik.eu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zeletrik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzeletrik&screen_name=zeletrik)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeletrik)
 
 `$whoami >`
-## I'm a Senior Sofrware Enginner
 
-- ☁️ Cloud Backend Enginner
-- 🌱 Software Architecture Designing Newby
+- 👨‍💻 Senior Cloud Backend Enginner
+- ☁️ Cloud Software Architecture Designer
+- 🚀 FOSS Contributor
 - 🐱 Proud cat daddy
-- 🥅 2022 Goals: Contribute to Open Source projects
-
-### Connect with me:
-
-
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
+- 🐉 D&D Dungeon Master
 
 ### Some Pokemon I know
+
+[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/kotlin/kotlin.png" />][kotlin]
 
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/java/java.png" />][java]
 
 [<img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png" />][spring]
 
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/aws/aws.png" />][aws]
+
 [<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/kubernetes/kubernetes.png" />][kubernetes]
-
-
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/kotlin/kotlin.png" />][kotlin]
 
 [<img align="left" alt=" Android" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/android/android.png" />][android]
 
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/python/python.png" />][python]
-
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/flutter/flutter.png" />][flutter]
-
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/angular/angular.png" />][angular]
-
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/aws/aws.png" />][aws]
 
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/graphql/graphql.png" />][graphql]
 
@@ -47,10 +34,9 @@
 
 ---
 
-### 👌  My work you could actually use
+### 👌  My work you could use
 
-- [Scrum toolkit](https://github.com/zeletrik/scrum-toolkit) is avaliable in the [Google Play Store](https://play.google.com/store/apps/details?id=hu.zeletrik.scrum.toolkit)
-
+- DEPRECATED ~~[Scrum toolkit](https://github.com/zeletrik/scrum-toolkit) is avaliable in the [Google Play Store](https://play.google.com/store/apps/details?id=hu.zeletrik.scrum.toolkit)~~
 
 ---
   <img align="left" alt="'s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=zeletrik&show_icons=true&hide_border=true" />
