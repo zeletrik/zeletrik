@@ -1,6 +1,6 @@
 ### Hi there, I'm Patrik - aka [zeletrik][website] 👋
 
-[![Website](https://img.shields.io/website?label=zeletrik.eu&style=for-the-badge&url=http%3A%2F%2Fzeletrik.eu)](http://zeletrik.eu)
+[![Website](https://img.shields.io/website?label=zeletrik.eu&style=for-the-badge&url=http%3A%2F%2Fwww.zeletrik.eu)](http://www.zeletrik.eu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/zeletrik?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzeletrik&screen_name=zeletrik)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeletrik)
 
